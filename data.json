@@ -1,4 +1,8 @@
-[  
+[ 
+  {
+    "imageUrl": "https://cdn.jsdelivr.net/gh/busywalker/public@main/logo.jpg",
+    "linkUrl": "https://www.structguide.com"
+  },
   {
     "imageUrl": "https://cdn.jsdelivr.net/gh/busywalker/public@main/wechat.jpg",
     "linkUrl": "https://mp.weixin.qq.com/s/QSKmYHtBr4nTyjXXAJQrgw"
