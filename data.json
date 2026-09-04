@@ -2,5 +2,20 @@
   {
     "imageUrl": "https://cdn.jsdelivr.net/gh/busywalker/public@main/logo.jpg",
     "linkUrl": "https://www.structguide.com"
+
+    "_localizedAds": {
+      "zh-TW": [
+        {
+          "imageUrl": "https://cdn.jsdelivr.net/gh/busywalker/public@main/logo.jpg",
+          "linkUrl": "https://www.structguide.com/zh-tw/"
+        }
+      ],
+      "en-US": [
+        {
+          "imageUrl": "https://cdn.jsdelivr.net/gh/busywalker/public@main/logo.jpg",
+          "linkUrl": "https://www.structguide.com/en/"
+        }
+      ]
+    }
   }
 ]
